@@ -1,48 +1,30 @@
-I am a B.Tech Computer Science undergraduate at NIT Rourkela with a core focus on software engineering, backend architectures, and artificial intelligence. My technical foundation spans building production-ready APIs, optimizing database schemas, and deploying machine learning models.Driven by an interest in core computer science fundamentals—including automata and data systems—I enjoy bridging the gap between theoretical algorithms and practical, real-world software. I am highly proficient in Python and modern backend frameworks like FastAPI, and I am continuously seeking opportunities to build scalable systems and explore cutting-edge NLP and LLM deployments.
+<h1 align="center">Madhbi Sah</h1>
 
-Languages
-Python, C, C++, SQL, JavaScript, TypeScript
+<hr>
 
-Backend & APIs
-FastAPI, Flask, REST APIs, Uvicorn
+<p align="center">
+  Computer Science Undergraduate • AI/ML • Backend Developer • Data Enthusiast
+</p>
 
-AI/ML & Computer Vision
-Machine Learning, OpenCV, NumPy, NLP, LLMs, YuNet
+<p align="center">
+  Building AI-driven applications, backend systems, and practical software solutions.
+</p>
 
-Databases
-SQLite, SQLAlchemy, PostgreSQL
+<hr>
 
-Frontend
+<h2>About Me</h2>
 
-HTML, CSS, React, TypeScript, Tailwind CSS
+<ul>
+  <li>Computer Science undergraduate at NIT Rourkela</li>
+  <li>Interested in Artificial Intelligence, Machine Learning, and Backend Development</li>
+  <li>Working with Python, FastAPI, SQLite, SQLAlchemy, APIs, and OpenCV</li>
+  <li>Exploring NLP, LLMs, databases, and AI-powered applications</li>
+</ul>
 
-Tools
+<hr>
 
-Git, GitHub, VS Code, Linux, WSL
+<h2>Tech Stack</h2>
 
-Projects
-
-Smart Media Manager
-Backend REST API built using FastAPI, SQLAlchemy, SQLite, authentication and image upload functionality.
-
-Facial Recognition System
-Real-time facial detection system using Python, OpenCV and YuNet.
-
-Student Details
-Python-based database project for managing student information and records.
-
-Password Manager
-Python application for generating and securely managing passwords.
-
-Currently Learning
-🤖 AI & Machine Learning
-🧠 NLP & LLMs
-⚙️ Backend Engineering
-🗄️ Database Systems
-🌐 Full-Stack Development
-🚀 Deployment & Cloud Technologies
-Connect With Me
-💼 LinkedIn
-🐙 GitHub
-
-⭐ Always learning, building, and exploring new technologies.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,sqlite,postgres,opencv,numpy,react,typescript,tailwind,git,github,vscode,linux" />
+</p>
