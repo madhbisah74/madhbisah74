@@ -38,7 +38,6 @@
   <li>C++</li>
   <li>FastAPI</li>
   <li>Flask</li>
-  <li>REST APIs</li>
   <li>SQLite</li>
   <li>SQLAlchemy</li>
   <li>OpenCV</li>
@@ -47,15 +46,13 @@
   <li>Artificial Intelligence</li>
   <li>NLP</li>
   <li>LLMs</li>
-  <li>React</li>
-  <li>TypeScript</li>
   <li>Tailwind CSS</li>
   <li>Git & GitHub</li>
 </ul>
 
 <hr>
 
-<h2>🤖 AI & Machine Learning Projects</h2>
+<h2>AI & Machine Learning Projects</h2>
 
 <p>
   Projects involving computer vision, machine learning,
@@ -76,7 +73,7 @@
 
 <h2>Featured Projects</h2>
 
-<h3>🚀 Facial Recognition System</h3>
+<h3>Facial Recognition System</h3>
 
 <p>
   Real-time facial detection system built using Python, OpenCV, and YuNet.
@@ -93,7 +90,7 @@
 
 <hr>
 
-<h3>⚙️ Smart Media Manager</h3>
+<h3>Smart Media Manager</h3>
 
 <p>
   Backend application built using FastAPI, SQLite, SQLAlchemy,
@@ -112,7 +109,7 @@
 
 <hr>
 
-<h3>🗄️ Student Details Database</h3>
+<h3>Student Details Database</h3>
 
 <p>
   Database application for storing and managing student information
@@ -129,7 +126,7 @@
 
 <hr>
 
-<h3>🔐 Password Manager</h3>
+<h3>Password Manager</h3>
 
 <p>
   Python-based application for generating and managing passwords.
