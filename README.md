@@ -26,7 +26,7 @@
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,sqlite,postgres,opencv,numpy,react,typescript,tailwind,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,sqlite,opencv,numpy,tailwind,git,github,vscode,linux" />
 </p>
 
 <hr>
@@ -171,5 +171,5 @@
 <hr>
 
 <p align="center">
-  ⭐ Always learning, building, and exploring new technologies.
+    Always learning, building, and exploring new technologies.
 </p>
